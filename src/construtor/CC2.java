@@ -6,6 +6,24 @@ public class CC2
    int b;
    
    
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    public CC2()// WITH ZERO PARAMETER 
 	{
 		a=25;
@@ -48,6 +66,26 @@ public class CC2
 		int sub=a*b;
 		System.out.println("subtration of "+sub);
 	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
    
    
